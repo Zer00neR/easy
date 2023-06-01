@@ -11,6 +11,8 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <link rel="stylesheet" href="registration.css" type="text/css">
+    <link rel="stylesheet" href="style/custom.css" type="text/css">
+
     <title>Главная</title>
 </head>
 <header class="header">

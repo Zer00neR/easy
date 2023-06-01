@@ -6,10 +6,18 @@
     margin-left: 0 !important;
 }
 
-.join-btn:hover {
-    
+.join-btn:hover {}
+
+.join-input {
+    padding-left: 10px;
 }
 
-/* .menu-main__custom{
-    display: flex;
-} */
+.join-button{
+    transition: all ease .3s;
+
+}
+
+.join-button:hover {
+    background-color: #19adb8 !important;
+
+}

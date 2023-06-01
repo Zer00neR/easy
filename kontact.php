@@ -3,7 +3,7 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <link rel="stylesheet" href="http://dsimsoi1.beget.tech/kontact.css">
+    <link rel="stylesheet" href="kontact.css">
     <link rel="stylesheet" href="style/custom.css" type="text/css">
     <title>Контакты</title>
 </head>

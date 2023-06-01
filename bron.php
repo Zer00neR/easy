@@ -9,6 +9,7 @@ if($result = $mysqli->query("SELECT * FROM bronirovanie")){
         $bronout = $row["checkout"];
         $bronvzrosl = $row["colvzrosl"];
         $brondetey = $row["coldetey"];
+        $nomer = $row["nomer"];
    
         echo "<tr>";
         echo "<td>${bronfio}</td>";
@@ -16,6 +17,7 @@ if($result = $mysqli->query("SELECT * FROM bronirovanie")){
         echo "<td>${bronout}</td>";
         echo "<td>${bronvzrosl}</td>";
         echo "<td>${brondetey}</td>";
+        echo "<td>${nomer}</td>";
         echo "</tr>";
     }
 }
